@@ -1,6 +1,8 @@
 # Hall Booking and Management System 🏢
 
-A web-based application developed using **ASP.NET** and **SQL Server** that helps manage hall bookings, track availability, and organize event schedules efficiently. The system is designed for administrators and users to manage bookings, customer details seamlessly.
+A web-based application developed using **ASP.NET** and **SQL Server** that helps manage hall bookings, track availability, and organize event schedules efficiently. The system is designed for administrators to Authenticate Users, Manage Hall Bookings, Add, Update OR Remove Hall Data, Manage Customer Details  Seamlessly. 
+
+It Allows Users to View All Available Halls For Booking, Book the Avialable Hall and Discuss further Detail via Contacting Admin / Owner and Explore All the Available Halls After Registration / Login Authentication.
 
 ## 🚀 Features
 
